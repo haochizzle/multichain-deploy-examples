@@ -1,4 +1,4 @@
-The following folders were created during the writing of the tutorials for the multichain-deploy plugins. They are here for demonstration purposes of the contracts & tests that were created and scripts that were run. 
+The following folders were created during the writing of the tutorials for the multichain-deploy plugins. They are left here for demonstration purposes of the contracts & tests that were created and scripts that were run. 
 
 Feel free to fork the repo to deploy your own examples.
 
